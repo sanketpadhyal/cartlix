@@ -35,3 +35,7 @@ You can **see live changes** of this web app via the link in the description! �
 ## 📌 Notes
 This project is intended for **learning**, **portfolio showcase**, and demonstrating **full-stack development skills**.  
 Live preview link allows visitors to **experience the project in real-time**. 🌟
+
+## 👥 Contributors
+- Sanket Padhyal 
+- GMKrrish (https://github.com/GMkrrish)
